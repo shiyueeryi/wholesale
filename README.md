@@ -1,2 +1,2 @@
 # wholesale
-just another repository
+test create repository
